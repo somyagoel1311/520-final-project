@@ -27,6 +27,20 @@ Steps to Initiate WandB logging to the ML model -
 3. Evaluation
 
 1. Evaluation metrics
+For an effective study and analysis we have identified a set of functional and non-functional requirements that are essential for MLOps tools. We have studied features encapsulating these requirements and are quantitatively measuring them using a Rating scale described in detail below.
+
+Functional Requirements:
+    * Dataset versioning -> Versioning of data in different stages and experiments for reproducibility
+    * Model versioning -> Versioning of models to help in comparison, running multiple experiments, etc
+    * Collaboration ->  Features supporting multi-member team collaboration on projects.
+    * Framework Integration -> Integration of popular ML frameworks in the market
+    * Hyperparameter optimzation -> Features allowing hyperparameter optimization experimentation 
+    * Report generation and management -> Creating and managing of reports for cataloging and stakeholder communication.
+    * Model Visualization -> Visualization of the model for explainability
+
+Non Functional Requirements:
+    * Understandability -> The documentation and resources available to learn and onboard with the tools.
+    * Usability -> The ease of onboarding and working with the tool day to day.
 
 2. Rating scale
 
