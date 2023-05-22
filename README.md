@@ -20,13 +20,14 @@ Steps to find your NEPTUNE API token:
 
 Steps to Initiate WandB logging to the ML model - 
 
-1. On Running the wandb script, you will recieve a prompt for authorising with an API Token. To run this smoothly we have provided the API token. 
-2. The WandB API Token is found in the "User settings" Section. 
+1. On Running the wandb script, you will recieve a prompt for authorising with an API Token on https://wandb.ai/authorize. To run this smoothly we have provided the API token. 
+2. It can also be found in The WandB API Token is found in the "User settings" Section. 
 
 
 3. Evaluation
 
 1. Evaluation metrics
+
 
 2. Rating scale
 
@@ -36,8 +37,8 @@ both the tools get a rating between 1 and 5. Following is the definition of each
 1 : Tool does not have this ability.
 2 : Tool performs poorly in this evaluation criteria.
 3 : Tool has a satisfactory performance for this evaluation criteria.
-4 :  Tool performs well for this criteria.
-5 :  Tool performs well for this criteria and also makes it easy to use this ability.
+4 : Tool performs well for this criteria.
+5 : Tool performs well for this criteria and also makes it easy to use this ability.
 
 Result
 
