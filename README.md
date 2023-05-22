@@ -16,7 +16,15 @@ Steps to find your NEPTUNE API token:
 
 1. There will be a user menu at the bottom left of your Neptune app. Expand it and click on "Get your API token." That will display your API token. Copy it to your clipboard, and enter it when promopted.
 
-Evaluation
+2. WanDB AI 
+
+Steps to Initiate WandB logging to the ML model - 
+
+1. On Running the wandb script, you will recieve a prompt for authorising with an API Token. To run this smoothly we have provided the API token. 
+2. The WandB API Token is found in the "User settings" Section. 
+
+
+3. Evaluation
 
 1. Evaluation metrics
 
@@ -32,3 +40,5 @@ both the tools get a rating between 1 and 5. Following is the definition of each
 5 :  Tool performs well for this criteria and also makes it easy to use this ability.
 
 Result
+
+
