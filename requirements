@@ -1,2 +1,11 @@
 neptune
 wandb
+torch
+torchvision
+sklearn
+matplotlib
+tqdm
+numpy
+copy
+random
+time
