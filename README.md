@@ -23,6 +23,8 @@ Steps to Initiate WandB logging to the ML model -
 1. On Running the wandb script, you will recieve a prompt for authorising with an API Token on https://wandb.ai/authorize. To run this smoothly we have provided the API token. 
 2. It can also be found in The WandB API Token is found in the "User settings" Section. 
 
+Wandb results Report Link - 
+[Published report of results](https://api.wandb.ai/links/ssmm/pj7nk9y3)
 
 3. Evaluation
 
