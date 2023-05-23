@@ -1,11 +1,11 @@
 # 520-final-project
 520 final project
 
-Tool Comparison : Neptune AI vs WanDB AI
+## Tool Comparison : Neptune AI vs WanDB AI
 
-Model Integration:
+### Model Integration:
 
-1. Neptune 
+#### 1. Neptune 
 
 Steps to Integrate your ML model to Neptune AI:
 
@@ -16,7 +16,7 @@ Steps to find your NEPTUNE API token:
 
 1. There will be a user menu at the bottom left of your Neptune app. Expand it and click on "Get your API token." That will display your API token. Copy it to your clipboard, and enter it when promopted.
 
-2. WanDB AI 
+#### 2. WanDB AI 
 
 Steps to Initiate WandB logging to the ML model - 
 
@@ -26,7 +26,7 @@ Steps to Initiate WandB logging to the ML model -
 Wandb results Report Link - 
 [Published report of results](https://api.wandb.ai/links/ssmm/pj7nk9y3)
 
-3. Evaluation
+#### 3. Evaluation
 
 1. Evaluation metrics
 For an effective study and analysis we have identified a set of functional and non-functional requirements that are essential for MLOps tools. We have studied features encapsulating these requirements and are quantitatively measuring them using a Rating scale described in detail below.
