@@ -28,7 +28,7 @@ Wandb results Report Link -
 
 #### 3. Evaluation
 
-1. Evaluation metrics
+##### 1. Evaluation metrics
 For an effective study and analysis we have identified a set of functional and non-functional requirements that are essential for MLOps tools. We have studied features encapsulating these requirements and are quantitatively measuring them using a Rating scale described in detail below.
 
 Functional Requirements:
@@ -47,7 +47,7 @@ Non Functional Requirements:
 3. Debuggability -> Capabilities supporting the debugging of issues as part of any experiment/run.
 
 
-2. Rating scale
+##### 2. Rating scale
 
 We are using a 3 point quantitative scale to evaluate how well a tool works. For each of our mentioned evaluation criterias,
 both the tools get a rating between 1 and 5. Following is the definition of each rating:
