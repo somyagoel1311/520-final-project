@@ -30,7 +30,7 @@ The following is the link to one of the reports we had created using Wandb for o
 
 
 #### 3. Evaluation
-=======
+
 Our Approach:
 
 We have run AlexNet on CIFAR-10 dataset to perform an image classification task. The code has been integrated with both the tools and required information has been stored on the tool.
@@ -66,7 +66,7 @@ both the tools get a rating between 1 and 3. Following is the definition of each
 3. Tool performs well for this criteria and also makes it easy to use this ability.
 
 
-Result
+##### 4. Result
 
 Each tool has been given a rating based on the above definitions. For a more comprehensive analysis of comparison between these two tools, please refer to our report present in the repository.
 
