@@ -47,15 +47,15 @@ Non Functional Requirements:
 
 2. Rating scale
 
-We are using a 5 point quantitative scale to evaluate how well a tool works. For each of our mentioned evaluation criterias,
+We are using a 3 point quantitative scale to evaluate how well a tool works. For each of our mentioned evaluation criterias,
 both the tools get a rating between 1 and 5. Following is the definition of each rating:
 
 1 : Tool does not have this ability.
-2 : Tool performs poorly in this evaluation criteria.
-3 : Tool has a satisfactory performance for this evaluation criteria.
-4 : Tool performs well for this criteria.
-5 : Tool performs well for this criteria and also makes it easy to use this ability.
+2 : Tool has a satisfactory performance for this evaluation criteria.
+3 : Tool performs well for this criteria and also makes it easy to use this ability.
 
-Result
+Results - 
+
+The screenshots used for comaprsion added to the folder named results. 
 
 
