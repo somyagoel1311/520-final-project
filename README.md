@@ -66,9 +66,21 @@ both the tools get a rating between 1 and 3. Following is the definition of each
 3. Tool performs well for this criteria and also makes it easy to use this ability.
 
 
-##### 4. Result
+#### 4. Result
 
 Each tool has been given a rating based on the above definitions. For a more comprehensive analysis of comparison between these two tools, please refer to our report present in the repository.
+
+#### 5. Work Distribution
+
+The study involved two pairs, with each pair being assigned responsibility for one of the tools being compared. The pairs conducted individual investigations into their respective tools, gathering and analyzing data on various aspects. Subsequently, the findings from each tool were compiled, and a comprehensive group comparison of the results was performed.
+
+Git hub Username: Madhusamhitha, 
+Programming pair: Sushrita Yerra, Madhu Samhitha Vangara
+Tool: wandb
+
+Git hub Username: somyagoel1311
+Programming pair: Somya Goel, Mahima Choudha
+Tool: NeptuneAI
 
 
 
