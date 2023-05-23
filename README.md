@@ -7,26 +7,34 @@
 
 #### 1. Neptune 
 
-Steps to Integrate your ML model to Neptune AI:
+Steps to Integrate your own ML model to Neptune AI:
 
-1. Run the script 'neptune_integration.py'.
-2. It'll prompt you for an API token. This token can be accessed from your Neptune account. For the purpose of this project, we will provide this token
+a.Run the script 'neptune_integration.py'.
+b.It'll prompt you for an API token. This token can be accessed from your Neptune account. 
 
 Steps to find your NEPTUNE API token:
 
-1. There will be a user menu at the bottom left of your Neptune app. Expand it and click on "Get your API token." That will display your API token. Copy it to your clipboard, and enter it when promopted.
+a. There will be a user menu at the bottom left of your Neptune app. Expand it and click on "Get your API token." That will display your API token. Copy it to your clipboard, and enter it when asked by the code.
 
 #### 2. WanDB AI 
 
 Steps to Initiate WandB logging to the ML model - 
 
-1. On Running the wandb script, you will recieve a prompt for authorising with an API Token on https://wandb.ai/authorize. To run this smoothly we have provided the API token. 
-2. It can also be found in The WandB API Token is found in the "User settings" Section. 
+1. On Running the wandb script (wandb_setup_script), you will receive a prompt for authorising with an API Token on https://wandb.ai/authorize. 
+2. This token can be found in the "User settings" Section. 
 
-Wandb results Report Link - 
+Wandb results Report Link -
+
+The following is the link to one of the reports we had created using Wandb for our experiments. 
 [Published report of results](https://api.wandb.ai/links/ssmm/pj7nk9y3)
 
+
 #### 3. Evaluation
+=======
+Our Approach:
+
+We have run AlexNet on CIFAR-10 dataset to perform an image classification task. The code has been integrated with both the tools and required information has been stored on the tool.
+We used this as the basis of our tool comparison.
 
 ##### 3.1 Evaluation metrics
 For an effective study and analysis we have identified a set of functional and non-functional requirements that are essential for MLOps tools. We have studied features encapsulating these requirements and are quantitatively measuring them using a Rating scale described in detail below.
@@ -50,14 +58,18 @@ Non Functional Requirements:
 ##### 3.2 Rating scale
 
 We are using a 3 point quantitative scale to evaluate how well a tool works. For each of our mentioned evaluation criterias,
-both the tools get a rating between 1 and 5. Following is the definition of each rating:
+both the tools get a rating between 1 and 3. Following is the definition of each rating:
+
 
 1. Tool does not have this ability.
 2. Tool has a satisfactory performance for this evaluation criteria.
 3. Tool performs well for this criteria and also makes it easy to use this ability.
 
-Results - 
 
-The screenshots used for comaprsion added to the folder named results. 
+Result
+
+Each tool has been given a rating based on the above definitions. For a more comprehensive analysis of comparison between these two tools, please refer to our report present in the repository.
+
+
 
 
