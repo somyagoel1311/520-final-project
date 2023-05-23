@@ -32,17 +32,19 @@ Wandb results Report Link -
 For an effective study and analysis we have identified a set of functional and non-functional requirements that are essential for MLOps tools. We have studied features encapsulating these requirements and are quantitatively measuring them using a Rating scale described in detail below.
 
 Functional Requirements:
-    * Dataset versioning -> Versioning of data in different stages and experiments for reproducibility
-    * Model versioning -> Versioning of models to help in comparison, running multiple experiments, etc
-    * Collaboration ->  Features supporting multi-member team collaboration on projects.
-    * Framework Integration -> Integration of popular ML frameworks in the market
-    * Hyperparameter optimzation -> Features allowing hyperparameter optimization experimentation 
-    * Report generation and management -> Creating and managing of reports for cataloging and stakeholder communication.
-    * Model Visualization -> Visualization of the model for explainability
+
+1. Dataset versioning -> Versioning of data in different stages and experiments for reproducibility
+2. Model versioning -> Versioning of models to help in comparison, running multiple experiments, etc
+3. Collaboration ->  Features supporting multi-member team collaboration on projects.
+4. Framework Integration -> Integration of popular ML frameworks in the market
+5. Report generation and management -> Creating and managing of reports for cataloging and stakeholder communication.
+6. Model Visualization -> Visualization of the model for explainability
 
 Non Functional Requirements:
-    * Understandability -> The documentation and resources available to learn and onboard with the tools.
-    * Usability -> The ease of onboarding and working with the tool day to day.
+
+1. Understandability -> The documentation and resources available to learn and onboard with the tools.
+2. Usability -> The ease of onboarding and working with the tool day to day.
+3. Debuggability -> Capabilities supporting the debugging of issues as part of any experiment/run.
 
 
 2. Rating scale
