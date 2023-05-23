@@ -74,13 +74,13 @@ Each tool has been given a rating based on the above definitions. For a more com
 
 The study involved two pairs, with each pair being assigned responsibility for one of the tools being compared. The pairs conducted individual investigations into their respective tools, gathering and analyzing data on various aspects. Subsequently, the findings from each tool were compiled, and a comprehensive group comparison of the results was performed.
 
-Git hub Username: Madhusamhitha, 
-Programming pair: Sushrita Yerra, Madhu Samhitha Vangara
-Tool: wandb
-
-Git hub Username: somyagoel1311
-Programming pair: Somya Goel, Mahima Choudha
-Tool: NeptuneAI
+Git hub Username: Madhusamhitha  
+Programming pair: Sushrita Yerra, Madhu Samhitha Vangara  
+Tool: wandb. 
+  
+Git hub Username: somyagoel1311.  
+Programming pair: Somya Goel, Mahima Choudha.  
+Tool: NeptuneAI.   
 
 
 
